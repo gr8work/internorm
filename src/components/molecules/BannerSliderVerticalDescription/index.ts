@@ -1,0 +1,1 @@
+export {BannerSliderVerticalDescription as default} from './bannerSliderVerticalDescription'
